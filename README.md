@@ -2,6 +2,8 @@
 
 **This project shows an easy way of getting CUDA, cuDNN and OpenCV support in balenaOS.**
 
+(Note this is a restored version of this repository, originally from early 2020)
+
 ```
 alwaysAI provides developers with a simple and flexible way to deliver deep learning computer vision to a wide variety of edge devices.
 ```
